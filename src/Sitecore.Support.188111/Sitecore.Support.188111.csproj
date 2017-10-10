@@ -62,6 +62,7 @@
     <Compile Include="ContentTesting\Pipelines\CancelTest\UnprotectTestedItems.cs" />
     <Compile Include="ContentTesting\Pipelines\StartPageTest\ProtectTestedItems.cs" />
     <Compile Include="ContentTesting\Pipelines\StopTest\UnprotectTestedItems.cs" />
+    <Compile Include="Pipelines\GetContentEditorWarnings\IsReadOnly.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
